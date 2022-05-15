@@ -1,5 +1,5 @@
 <?php
-echo 'hiii 7777 000';
+echo 'hiii 7777 777';
 
 
 ?>
